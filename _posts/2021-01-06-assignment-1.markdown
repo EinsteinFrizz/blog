@@ -3,14 +3,14 @@ layout: post
 title:  "Risky Users in Tawharanui and Waitakere Ranges Regional Parks"
 date:   2021-01-06 12:00:00 +1300
 categories: assignment
-image: 'https://kauridieback.blob.core.windows.net/cache/8/6/4/5/e/3/8645e30d1d03b113351ff2f5f06a014752c91219.jpg'
+image: '/images/kauridieback.jpg'
 ---
 <link rel="stylesheet" href="https://unpkg.com/leaflet@0.7.7/dist/leaflet.css" />
 <script src="https://unpkg.com/leaflet@0.7.7/dist/leaflet.js"></script>
 
 ## What is Kauri Dieback?
 
-[![An aerial photo of a grey, dead kauri tree in the middle of a forest.](https://kauridieback.blob.core.windows.net/cache/8/6/4/5/e/3/8645e30d1d03b113351ff2f5f06a014752c91219.jpg "A kauri tree that has succumbed to dieback")](https://www.kauridieback.co.nz/what-is-kauri-dieback/)
+[![An aerial photo of a grey, dead kauri tree in the middle of a forest.](/images/kauridieback.jpg)](https://www.kauridieback.co.nz/what-is-kauri-dieback/)
 
 Kauri dieback is a disease afflicting kauri trees (*Agathis australis*) that is caused by a fungal infection of the tree's roots. Its spores live in the ground, moving around by swimming through soil moisture. While the fungus spores can move through space to infect more trees by themselves, other agents can spread the spores much farther than their natural range.
 
