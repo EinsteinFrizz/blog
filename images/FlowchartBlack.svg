@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="240.93457mm"
+   height="265.37704mm"
+   viewBox="0 0 240.93457 265.37704"
+   version="1.1"
+   id="svg1119"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="FlowchartBlack.svg">
+  <defs
+     id="defs1113" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="332.45227"
+     inkscape:cy="364.35709"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1267"
+     inkscape:window-height="1040"
+     inkscape:window-x="156"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata1116">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-17.872003,-51.763853)">
+    <path
+       d="m 90.235518,82.058618 11.959162,-29.89789 h 47.83667 l -11.95917,29.89789 z"
+       stroke="#000000"
+       stroke-width="0.79375"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       fill-opacity="0.501961"
+       id="path128" />
+    <text
+       font-family="'Josefin Sans', 'Josefin Sans_MSFontService', sans-serif"
+       font-weight="600"
+       font-size="5.02708px"
+       id="text134"
+       x="112.2941"
+       y="62.34716"
+       style="stroke-width:0.264583">Digital <tspan
+   x="109.36251"
+   y="68.697159"
+   id="tspan130"
+   style="stroke-width:0.264583">Elevation</tspan><tspan
+   x="104.31248"
+   y="75.047165"
+   id="tspan132"
+   style="stroke-width:0.264583">Model (DEM)</tspan></text>
+    <path
+       d="m 152.67718,82.058618 11.53584,-29.89789 h 46.14333 l -11.53583,29.89789 z"
+       stroke="#000000"
+       stroke-width="0.79375"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       fill-opacity="0.501961"
+       id="path136" />
+    <text
+       font-family="'Josefin Sans', 'Josefin Sans_MSFontService', sans-serif"
+       font-weight="600"
+       font-size="5.02708px"
+       id="text138"
+       x="166.49345"
+       y="68.697159"
+       style="stroke-width:0.264583">Historic Map</text>
+    <rect
+       x="90.235519"
+       y="126.50862"
+       width="120.12083"
+       height="20.108334"
+       stroke="#000000"
+       stroke-width="0.79375"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       fill-opacity="0.501961"
+       id="rect140" />
+    <text
+       font-family="'Josefin Sans', 'Josefin Sans_MSFontService', sans-serif"
+       font-weight="600"
+       font-size="6.35px"
+       id="text142"
+       x="117.22698"
+       y="138.54716"
+       style="stroke-width:0.264583">Crop to desired extent</text>
+    <path
+       d="M 90.235518,104.28362 114.25968,94.229452 h 72.0725 l 24.02417,10.054168 -24.02417,10.05417 h -72.0725 z"
+       stroke="#000000"
+       stroke-width="0.79375"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       fill-opacity="0.501961"
+       id="path144" />
+    <text
+       font-family="'Josefin Sans', 'Josefin Sans_MSFontService', sans-serif"
+       font-weight="600"
+       font-size="5.82083px"
+       id="text146"
+       x="114.69122"
+       y="106.00341"
+       style="stroke-width:0.264583">Convert to a common CRS</text>
+    <path
+       d="m 223.32093,94.229452 c 3.87244,0 7.01146,4.351337 7.01146,9.719208 v 6.75534 c 0,5.36786 3.13928,9.7192 7.01146,9.7192 -3.87218,0 -7.01146,4.35134 -7.01146,9.71921 v 6.75534 c 0,5.36786 -3.13902,9.7192 -7.01146,9.7192"
+       stroke="#000000"
+       stroke-width="0.352777"
+       stroke-miterlimit="8"
+       fill="none"
+       fill-rule="evenodd"
+       id="path148" />
+    <text
+       font-family="'Josefin Sans', 'Josefin Sans_MSFontService', sans-serif"
+       font-weight="300"
+       font-size="4.49792px"
+       id="text150"
+       x="246.23784"
+       y="121.61383"
+       style="stroke-width:0.264583">QGIS</text>
+    <path
+       d="m 90.235518,168.70966 11.959162,-9.92188 h 35.8775 l 11.95917,9.92188 -11.95917,9.92187 h -35.8775 z"
+       stroke="#000000"
+       stroke-width="0.79375"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       fill-opacity="0.501961"
+       id="path152" />
+    <text
+       font-family="'Josefin Sans', 'Josefin Sans_MSFontService', sans-serif"
+       font-weight="600"
+       font-size="5.82083px"
+       id="text158"
+       x="105.92293"
+       y="166.85757"
+       style="stroke-width:0.264583">Convert to <tspan
+   x="103.78333"
+   y="174.26591"
+   id="tspan154"
+   style="stroke-width:0.264583">16</tspan>-<tspan
+   x="110.7066"
+   y="174.26591"
+   id="tspan156"
+   style="stroke-width:0.264583">bit image</tspan></text>
+    <path
+       d="m 223.32093,158.78778 c 3.87244,0 7.01146,2.22118 7.01146,4.96094 v 0 c 0,2.73976 3.13928,4.96094 7.01146,4.96094 -3.87218,0 -7.01146,2.22117 -7.01146,4.96093 v 0 c 0,2.73976 -3.13902,4.96094 -7.01146,4.96094"
+       stroke="#000000"
+       stroke-width="0.352777"
+       stroke-miterlimit="8"
+       fill="none"
+       fill-rule="evenodd"
+       id="path160" />
+    <text
+       font-family="'Josefin Sans', 'Josefin Sans_MSFontService', sans-serif"
+       font-weight="300"
+       font-size="4.49792px"
+       id="text162"
+       x="246.25978"
+       y="169.76799"
+       style="stroke-width:0.264583">GIMP</text>
+    <path
+       d="m 18.268878,195.0357 59.795807,-3.96875 V 210.9107 H 18.268878 Z"
+       stroke="#000000"
+       stroke-width="0.79375"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       fill-opacity="0.501961"
+       id="path164" />
+    <text
+       font-family="'Josefin Sans', 'Josefin Sans_MSFontService', sans-serif"
+       font-weight="600"
+       font-size="6.35px"
+       id="text166"
+       x="29.016598"
+       y="204.95757"
+       style="stroke-width:0.264583">Create plane</text>
+    <path
+       d="m 120.30991,82.058618 v 11.869209 h -0.35296 V 82.058618 Z m 1.74175,8.779934 -1.91823,3.452547 -1.91796,-3.452547 c -0.0474,-0.0852 -0.0167,-0.192617 0.0685,-0.239978 0.0852,-0.04709 0.19236,-0.01667 0.23972,0.06853 l 1.76397,3.175 h -0.3085 l 1.76398,-3.175 c 0.0474,-0.0852 0.15478,-0.115623 0.23997,-0.06853 0.0849,0.04736 0.11563,0.154782 0.0685,0.239978 z"
+       id="path168"
+       style="stroke-width:0.264583" />
+    <path
+       d="m 120.30982,158.48607 3e-5,-11.86917 h -0.35278 l -3e-5,11.86917 z m -2.09446,-3.08935 1.91807,3.45256 1.91809,-3.45256 c 0.0473,-0.0851 0.0166,-0.19253 -0.0685,-0.23984 -0.0852,-0.0473 -0.19254,-0.0166 -0.23985,0.0685 l -1.7639,3.175 h 0.30839 l -1.76389,-3.175 c -0.0473,-0.0852 -0.15469,-0.11584 -0.23985,-0.0685 -0.0852,0.0473 -0.11584,0.1547 -0.0685,0.23984 z"
+       id="path170"
+       style="stroke-width:0.264583" />
+    <rect
+       x="90.235519"
+       y="222.55237"
+       width="59.795834"
+       height="20.108334"
+       fill="#ffffff"
+       fill-opacity="0.501961"
+       id="rect172"
+       style="stroke-width:0.264583" />
+    <path
+       d="M 97.709997,222.55237 V 242.6607 M 142.55687,222.55237 V 242.6607"
+       stroke="#000000"
+       stroke-width="0.79375"
+       stroke-miterlimit="8"
+       fill="none"
+       fill-rule="evenodd"
+       id="path174" />
+    <rect
+       x="90.235519"
+       y="222.55237"
+       width="59.795834"
+       height="20.108334"
+       stroke="#000000"
+       stroke-width="0.79375"
+       stroke-miterlimit="8"
+       fill="none"
+       id="rect176" />
+    <text
+       font-family="'Josefin Sans', 'Josefin Sans_MSFontService', sans-serif"
+       font-weight="600"
+       font-size="6.35px"
+       id="text178"
+       x="107.64193"
+       y="234.32632"
+       style="stroke-width:0.264583">Displace</text>
+    <rect
+       x="155.32301"
+       y="222.55237"
+       width="55.033333"
+       height="20.108334"
+       fill="#ffffff"
+       fill-opacity="0.501961"
+       id="rect180"
+       style="stroke-width:0.264583" />
+    <path
+       d="m 162.20218,222.55237 v 20.10833 m 41.275,-20.10833 v 20.10833"
+       stroke="#000000"
+       stroke-width="0.79375"
+       stroke-miterlimit="8"
+       fill="none"
+       fill-rule="evenodd"
+       id="path182" />
+    <rect
+       x="155.32301"
+       y="222.55237"
+       width="55.033333"
+       height="20.108334"
+       stroke="#000000"
+       stroke-width="0.79375"
+       stroke-miterlimit="8"
+       fill="none"
+       id="rect184" />
+    <text
+       font-family="'Josefin Sans', 'Josefin Sans_MSFontService', sans-serif"
+       font-weight="600"
+       font-size="6.35px"
+       id="text186"
+       x="171.65735"
+       y="234.32632"
+       style="stroke-width:0.264583">Texture</text>
+    <path
+       d="m 119.95722,222.29493 -2.7e-4,-21.96756 h 0.35296 v 21.96756 z m 2.09444,-3.08928 -1.91796,3.45255 -1.91823,-3.45255 c -0.0474,-0.0852 -0.0167,-0.19262 0.0685,-0.23998 0.0852,-0.0471 0.19262,-0.0167 0.23998,0.0685 l 1.76398,3.175 h -0.30851 l 1.76398,-3.175 c 0.0471,-0.0852 0.15452,-0.11589 0.23971,-0.0685 0.0852,0.0474 0.11589,0.15478 0.0685,0.23998 z"
+       id="path188"
+       style="stroke-width:0.264583" />
+    <path
+       d="M 175.51945,93.927827 V 82.058618 h 0.35296 v 11.869209 z m 2.09471,-3.089275 -1.91823,3.452547 -1.91796,-3.452547 c -0.0474,-0.0852 -0.0167,-0.192617 0.0685,-0.239978 0.0852,-0.04709 0.19236,-0.0164 0.23972,0.06853 l 1.76397,3.175 h -0.3085 l 1.76398,-3.175 c 0.0474,-0.0852 0.15478,-0.115623 0.23997,-0.06853 0.0849,0.04736 0.11563,0.154782 0.0685,0.239978 z"
+       id="path190"
+       style="stroke-width:0.264583" />
+    <path
+       d="m 176.40149,126.2069 2e-5,-11.86922 h -0.35277 l -3e-5,11.86922 z m -2.09446,-3.08934 1.91807,3.45255 1.91809,-3.45255 c 0.0473,-0.0851 0.0166,-0.19254 -0.0685,-0.23984 -0.0852,-0.0473 -0.19254,-0.0166 -0.23985,0.0685 l -1.7639,3.175 h 0.30838 l -1.76388,-3.175 c -0.0473,-0.0852 -0.1547,-0.11584 -0.23985,-0.0685 -0.0852,0.0473 -0.11584,0.1547 -0.0685,0.23984 z"
+       id="path192"
+       style="stroke-width:0.264583" />
+    <path
+       d="m 120.30982,126.2069 3e-5,-11.86922 h -0.35278 l -3e-5,11.86922 z m -2.09446,-3.08934 1.91807,3.45255 1.91809,-3.45255 c 0.0473,-0.0851 0.0166,-0.19254 -0.0685,-0.23984 -0.0852,-0.0473 -0.19254,-0.0166 -0.23985,0.0685 l -1.7639,3.175 h 0.30839 l -1.76389,-3.175 c -0.0473,-0.0852 -0.15469,-0.11584 -0.23985,-0.0685 -0.0852,0.0473 -0.11584,0.1547 -0.0685,0.23984 z"
+       id="path194"
+       style="stroke-width:0.264583" />
+    <path
+       d="m 176.04871,146.61695 v 22.31477 h 6.89384 l -0.1764,-0.17637 v 53.52608 h 0.35277 v -53.70248 h -6.89382 l 0.17639,0.1764 v -22.1384 z m 4.97574,72.57468 1.9181,3.45255 1.91807,-3.45255 c 0.0473,-0.0852 0.0166,-0.19262 -0.0685,-0.23998 -0.0852,-0.0471 -0.19253,-0.0164 -0.23984,0.0685 l -1.7639,3.175 h 0.30837 l -1.76387,-3.175 c -0.0473,-0.0849 -0.1547,-0.11563 -0.23987,-0.0685 -0.0851,0.0474 -0.11584,0.15478 -0.0685,0.23998 z"
+       id="path196"
+       style="stroke-width:0.264583" />
+    <path
+       d="m 78.064685,204.11964 h 41.672665 v 0.35295 H 78.064685 Z m 38.583395,-1.74149 3.45254,1.91797 -3.45254,1.91822 c -0.0852,0.0471 -0.19262,0.0164 -0.23998,-0.0685 -0.0471,-0.0852 -0.0164,-0.19262 0.0685,-0.23998 l 3.175,-1.76398 v 0.30851 l -3.175,-1.76398 c -0.0849,-0.0474 -0.11562,-0.15452 -0.0685,-0.23971 0.0474,-0.0852 0.15478,-0.11589 0.23998,-0.0685 z"
+       id="path198"
+       style="stroke-width:0.264583" />
+    <path
+       d="M 78.064685,199.09255 H 182.34412 v 0.35296 H 78.064685 Z m 101.187775,-1.74148 3.45255,1.91796 -3.45255,1.91823 c -0.0852,0.0471 -0.19262,0.0164 -0.23998,-0.0685 -0.0474,-0.0852 -0.0167,-0.19261 0.0685,-0.23997 l 3.175,-1.76398 v 0.3085 l -3.175,-1.76397 c -0.0852,-0.0474 -0.11589,-0.15452 -0.0685,-0.23972 0.0474,-0.0852 0.15479,-0.11588 0.23998,-0.0685 z"
+       id="path200"
+       style="stroke-width:0.264583" />
+    <rect
+       x="90.235519"
+       y="254.56694"
+       width="120.12083"
+       height="19.84375"
+       stroke="#000000"
+       stroke-width="0.79375"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       fill-opacity="0.501961"
+       id="rect202" />
+    <text
+       font-family="'Josefin Sans', 'Josefin Sans_MSFontService', sans-serif"
+       font-weight="600"
+       font-size="6.35px"
+       id="text204"
+       x="139.67238"
+       y="266.34091"
+       style="stroke-width:0.264583">Render</text>
+    <path
+       d="m 120.39802,316.74403 11.95916,-29.89791 h 47.83667 l -11.95917,29.89791 z"
+       stroke="#000000"
+       stroke-width="0.79375"
+       stroke-miterlimit="8"
+       fill="#ffffff"
+       fill-rule="evenodd"
+       fill-opacity="0.501961"
+       id="path206" />
+    <text
+       font-family="'Josefin Sans', 'Josefin Sans_MSFontService', sans-serif"
+       font-weight="600"
+       font-size="6.35px"
+       id="text210"
+       x="133.82959"
+       y="299.67841"
+       style="stroke-width:0.264583">3D Historic <tspan
+   x="143.3546"
+   y="307.88049"
+   id="tspan208"
+   style="stroke-width:0.264583">Map</tspan></text>
+    <path
+       d="m 223.32093,191.06695 c 3.87244,0 7.01146,4.35134 7.01146,9.7192 v 22.23347 c 0,5.36787 3.13928,9.7192 7.01146,9.7192 -3.87218,0 -7.01146,4.35134 -7.01146,9.71921 v 22.23346 c 0,5.36787 -3.13902,9.71921 -7.01146,9.71921"
+       stroke="#000000"
+       stroke-width="0.352777"
+       stroke-miterlimit="8"
+       fill="none"
+       fill-rule="evenodd"
+       id="path212" />
+    <text
+       font-family="'Josefin Sans', 'Josefin Sans_MSFontService', sans-serif"
+       font-weight="300"
+       font-size="4.49792px"
+       id="text214"
+       x="244.58418"
+       y="233.53258"
+       style="stroke-width:0.264583">Blender</text>
+    <path
+       d="m 120.30982,254.20997 3e-5,-11.54914 h -0.35278 l -3e-5,11.54914 z m -2.09446,-3.08938 1.91807,3.45256 1.91809,-3.45256 c 0.0473,-0.0851 0.0166,-0.19254 -0.0685,-0.23984 -0.0852,-0.0473 -0.19254,-0.0166 -0.23985,0.0685 l -1.7639,3.175 0.30839,1e-5 -1.76389,-3.17501 c -0.0473,-0.0852 -0.15469,-0.11583 -0.23985,-0.0685 -0.0852,0.0473 -0.11584,0.1547 -0.0685,0.23984 z"
+       id="path216"
+       style="stroke-width:0.264583" />
+    <path
+       d="m 182.93308,254.21399 -0.26961,-11.54906 0.35269,-0.008 0.26961,11.54932 z m 2.02168,-3.13742 -1.837,3.49646 -1.99813,-3.40677 c -0.0492,-0.0841 -0.0212,-0.19209 0.063,-0.24157 0.0839,-0.0492 0.19208,-0.0209 0.2413,0.063 l 1.83753,3.13293 -0.30824,0.007 1.68936,-3.21548 c 0.0453,-0.0863 0.15187,-0.11932 0.23813,-0.0741 0.0863,0.0452 0.11932,0.15187 0.0741,0.23813 z"
+       id="path218"
+       style="stroke-width:0.264583" />
+    <path
+       d="m 150.47232,286.34887 3e-5,-11.93828 h -0.35278 l -3e-5,11.93828 z m -2.09446,-3.08934 1.91807,3.45255 1.91809,-3.45255 c 0.0473,-0.0851 0.0166,-0.19254 -0.0685,-0.23985 -0.0852,-0.0473 -0.19254,-0.0166 -0.23985,0.0685 l -1.7639,3.175 h 0.30839 l -1.76389,-3.175 c -0.0473,-0.0852 -0.15469,-0.11583 -0.23985,-0.0685 -0.0852,0.0473 -0.11584,0.15471 -0.0685,0.23985 z"
+       id="path220"
+       style="stroke-width:0.264583" />
+    <path
+       d="m 120.1337,178.63153 -2e-4,19.3621"
+       stroke="#000000"
+       stroke-width="0.352777"
+       stroke-miterlimit="8"
+       fill="none"
+       fill-rule="evenodd"
+       id="path222" />
+  </g>
+</svg>
