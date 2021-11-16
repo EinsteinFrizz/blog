@@ -27,6 +27,8 @@ As with any specialist software, there is a steep learning curve associated with
 
 The [tutorial](https://wesleybarrgis.wordpress.com/2020/05/19/how-to-make-a-3d-map-in-blender/) by [Wesley Barr](https://wesleybarrgis.wordpress.com/) from 2020 was a key starting point in the creation of these 3D maps, as was the [tutorial](https://somethingaboutmaps.wordpress.com/blender-relief-tutorial-getting-set-up/) by [Daniel Huffman](https://somethingaboutmaps.wordpress.com/).
 
+*Note: the exact locations of some of these menu options have changed with Blender updates, but they are all generally in the same place.*
+
 In general, the process for making relief-displaced historic maps is as follows:
 
 <img src="/images/FlowchartWhite.svg" alt="A flow chart of the process of making these historic relief maps.">

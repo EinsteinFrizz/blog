@@ -10,7 +10,7 @@ image: '/images/kauridieback.jpg'
 
 ## What is Kauri Dieback?
 
-[![An aerial photo of a grey, dead kauri tree in the middle of a forest.](/images/kauridieback.jpg)](https://www.kauridieback.co.nz/what-is-kauri-dieback/)
+<a href="https://www.kauridieback.co.nz/what-is-kauri-dieback/"><img src="/images/kauridieback.jpg" alt="An aerial photo of a grey, dead kauri tree in the middle of a forest."></a>
 
 Kauri dieback is a disease afflicting kauri trees (*Agathis australis*) that is caused by a fungal infection of the tree's roots. Its spores live in the ground, moving around by swimming through soil moisture. While the fungus spores can move through space to infect more trees by themselves, other agents can spread the spores much farther than their natural range.
 
