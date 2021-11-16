@@ -2,7 +2,7 @@
 # General Site Settings
 title: Amber's Blog
 logo: # You can add own logo. For example '/images/logo.png'.
-description: An attempt at a functional blog site.
+description: A compilation of ramblings with some coherent thoughts spliced in.
 baseurl: "/blog" # The subpath of your site, e.g. /blog
 url: "https://einsteinfrizz.github.io" # The base hostname & protocol for your site, e.g. http://example.com
 
@@ -11,15 +11,15 @@ url: "https://einsteinfrizz.github.io" # The base hostname & protocol for your s
 # Author Settings
 author:
   name: Amber Peek
-  avatar:
+  avatar: '/images/ambermini.jpg'
 
 
 #-------------------------------
 # Hero Settings
 hero:
-  title: Aditu
-  description: Thoughts, stories and ideas.
-  image: '/images/01.jpg'
+  title: Amber's Blog
+  description: A compilation of ramblings with some coherent thoughts spliced in.
+  image: '/images/stockade-pano-success.jpg'
 
 
 #-------------------------------
