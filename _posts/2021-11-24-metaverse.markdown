@@ -33,3 +33,9 @@ The cyberspace-metaverse is a concept explored in many well-known pieces of medi
 * Altered Carbon – Richard K. Morgan (book 2002, television series 2018)
 
 Even the Tamagotchi was [branded](https://web.archive.org/web/19980709195449/http://www.bandai.com/pressroom/98tama.html) as "the virtual reality pet" in 1998, embodying the idea of the multiverse with its later use of [infrared connection](https://web.archive.org/web/20040703145011/http://tamagotchi.com/news/news.cfm?wn_id=71) between units and integration with a website.
+
+Given that metaverses are no new invention, what exactly is Facebook doing and why are they touting it as the next greatest technological innovation?
+
+# Facebook and the Meta&#xB2;verse
+
+Meta and its Metaverse isn't Facebook's first foray into the virtual reality scene. Poking around on the various websites Facebook hosts reveals multiple projects the company has been working on, many of which appear to be predecessors to their Metaverse. These projects from Facebook's (Reality Labs)[https://about.facebook.com/realitylabs/] involve virtual reality integrated workplaces ([Workplace, Oculus for Business](https://tech.fb.com/the-future-of-work-and-the-next-computing-platform/)), video calling devices ([Portal](https://portal.facebook.com/nz/)), and augmented reality ([Spark AR](https://sparkar.facebook.com/ar-studio/)). I don't know about you, but none of these sound particularly groundbreaking (certainly not a tablet that can seemingly only do video calls), and I hadn't heard of any of them until writing this. Given that Facebook seems to be reinventing the wheels (or hopping on the bandwagons) of Zoom/Microsoft Teams/Google Meet/Skype/Messenger, Google Drive/Microsoft OneDrive, and Unity/Unreal Engine/ARKit, is the Meta Metaverse anything new?
