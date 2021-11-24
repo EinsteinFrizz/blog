@@ -32,4 +32,4 @@ The cyberspace-metaverse is a concept explored in many well-known pieces of medi
 * The Matrix – Lana & Lilly Wachowski (film, 1999)
 * Altered Carbon – Richard K. Morgan (book 2002, television series 2018)
 
-Even the Tamagotchi was [branded](https://web.archive.org/web/19980709195449/http://www.bandai.com/pressroom/98tama.html) as "the virtual reality pet" in 1998, embodying the idea of the multiverse with its later use of infrared connection between units and integration with a website.
+Even the Tamagotchi was [branded](https://web.archive.org/web/19980709195449/http://www.bandai.com/pressroom/98tama.html) as "the virtual reality pet" in 1998, embodying the idea of the multiverse with its later use of [infrared connection](https://web.archive.org/web/20040703145011/http://tamagotchi.com/news/news.cfm?wn_id=71) between units and integration with a website.
