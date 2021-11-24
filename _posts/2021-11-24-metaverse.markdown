@@ -47,3 +47,15 @@ Facebook refers to this metaverse as ***the*** Metaverse, while I refer to it as
 1. I refuse to believe companies like Google, Amazon, and potentially Apple will co-operate to produce one unified metaverse, rather than creating their own versions to capitalise off of – see all the streaming services with exclusive content that have sprung up in the past few years.
 
 1. If giant corporations with monopolies or oligopolies are in charge of these metaverses, will they really serve the interests of the common person? Or will they continue the pattern of commodifying user data as people become increasingly reliant on these technologies to keep up with society?
+
+# Metaverse or Multiverse?
+
+# Whose Reality is it Anyway?
+
+# Will ordinary people embrace the Metaverse?
+
+I remember when I joined Facebook. It was 2013 and all my friends were using it to communicate, and I was distinctly missing out on making friends at my new high school due to not having it. Being one of (what seems like) the last classes of kids to be taught not to share personal information online, I used a pseudonym, which I quickly changed to my real name following questioning from my peers and encouragement from the adults in my life – ironic, given that these are the same adults who were so focused on my online security.
+
+Cut to 2021 and Facebook Messenger is my primary communication platform to my friends, partners, some of my family even. The cognitive dissonance is real between my reliance on this (in my opinion) leech on society of a company and my love of free and open source software and Internet privacy. Nowadays, I run Facebook in a container on Firefox, with ad and script blockers, privacy extensions, you name it, I run it. I refuse to link my phone number and contacts (even though no doubt they already have my number from someone else uploading their contacts), or to use my account to sign in to any other services wherever possible. And yet, despite my hatred for the company, I return to it without fail every day. As I write this, Messenger is prominently open on one of my monitors in its usual place.
+
+I tell you this anecdote not to brag about my privacy-consciousness (or make you think I wear a tin foil hat), but to illustrate how invasive technologies creep into our lives, sometimes by choice, sometimes by social (or other) necessity. My hypothesis is that we may not willingly go out and buy virtual reality headsets just so we can log in to the Metaverse in our spare time. No, I suspect that businesses, especially large national or multinational ones, will see the Metaverse as an opportunity to 'enhance' the work environment (and likely intrude further into their workers' home lives) and make it a compulsory part of working.
