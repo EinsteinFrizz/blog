@@ -39,3 +39,11 @@ Given that metaverses are no new invention, what exactly is Facebook doing and w
 # Facebook and the Meta&#xB2;verse
 
 Meta and its Metaverse isn't Facebook's first foray into the virtual reality scene. Poking around on the various websites Facebook hosts reveals multiple projects the company has been working on, many of which appear to be predecessors to their Metaverse. These projects from Facebook's (Reality Labs)[https://about.facebook.com/realitylabs/] involve virtual reality integrated workplaces ([Workplace, Oculus for Business](https://tech.fb.com/the-future-of-work-and-the-next-computing-platform/)), video calling devices ([Portal](https://portal.facebook.com/nz/)), and augmented reality ([Spark AR](https://sparkar.facebook.com/ar-studio/)). I don't know about you, but none of these sound particularly groundbreaking (certainly not a tablet that can seemingly only do video calls), and I hadn't heard of any of them until writing this. Given that Facebook seems to be reinventing the wheels (or hopping on the bandwagons) of Zoom/Microsoft Teams/Google Meet/Skype/Messenger, Google Drive/Microsoft OneDrive, and Unity/Unreal Engine/ARKit, is the Meta Metaverse anything new?
+
+## A Brief Tangent into Semantics
+
+Facebook refers to this metaverse as ***the*** Metaverse, while I refer to it as ***their*** Metaverse. This is for two key reasons:
+
+1. I refuse to believe companies like Google, Amazon, and potentially Apple will co-operate to produce one unified metaverse, rather than creating their own versions to capitalise off of – see all the streaming services with exclusive content that have sprung up in the past few years.
+
+1. If giant corporations with monopolies or [oligopolies][An economic condition in which a small number of sellers exert control over the market of a commodity. (Wiktionary)] are in charge of these metaverses, will they really serve the interests of the common person? Or will they continue the pattern of commodifying user data as people become increasingly reliant on these technologies to keep up with society?
