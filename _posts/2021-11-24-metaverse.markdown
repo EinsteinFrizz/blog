@@ -6,6 +6,8 @@ categories: masters
 image: '/images/reboot-matrix.jpg'
 ---
 
+*Header image from ReBoot "Web World Wars"*
+
 *Throughout this post, I will refer to the company in question as Facebook, due to the ongoing [cease and desist](https://meta.company/) from Meta Company (unaffiliated) due to the confusion and alleged trademark infringement Facebook’s rebrand causes.*
 
 About a month ago, Facebook [announced](https://about.fb.com/news/2021/10/facebook-company-is-now-meta/) that they would be rebranding to Meta.
@@ -52,7 +54,7 @@ Facebook refers to this metaverse as ***the*** Metaverse, while I refer to it as
 
 # Whose Reality is it Anyway?
 
-# Will ordinary people embrace the Metaverse?
+# Will we ~plebs~ embrace the Metaverse?
 
 I remember when I joined Facebook. It was 2013 and all my friends were using it to communicate, and I was distinctly missing out on making friends at my new high school due to not having it. Being one of (what seems like) the last classes of kids to be taught not to share personal information online, I used a pseudonym, which I quickly changed to my real name following questioning from my peers and encouragement from the adults in my life – ironic, given that these are the same adults who were so focused on my online security.
 
