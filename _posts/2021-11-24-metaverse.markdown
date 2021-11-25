@@ -64,6 +64,8 @@ If someone asks me where I work, I can tell them exactly where down to [ten-thou
 
 <img src="/images/uoa-nz.jpg" alt="A map of New Zealand with the University of Auckland highlighted."><img src="/images/earth-location.jpg" alt="A diagram of the Solar System.">
 
+![A map of New Zealand with the University of Auckland highlighted.](/images/uoa-nz.jpg) ![A diagram of the Solar System.](/images/earth-location.jpg)
+
 # Will we ~~plebs~~ embrace the Metaverse?
 
 I remember when I joined Facebook. It was 2013 and all my friends were using it to communicate, and I was distinctly missing out on making friends at my new high school due to not having it. Being one of (what seems like) the last classes of kids to be taught not to share personal information online, I used a pseudonym, which I quickly changed to my real name following questioning from my peers and encouragement from the adults in my life – ironic, given that these are the same adults who were so focused on my online security.
