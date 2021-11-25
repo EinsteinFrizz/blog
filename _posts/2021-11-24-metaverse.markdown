@@ -3,10 +3,8 @@ layout: post
 title:  "Metaverse"
 date:   2021-11-24 12:00:00 +1300
 categories: masters
-image: '/images/reboot-matrix.jpg'
+image: '/images/meta-matrix.jpg'
 ---
-
-*Header image from ReBoot "Web World Wars"*
 
 *Throughout this post, I will refer to the company in question as Facebook, due to the ongoing [cease and desist](https://meta.company/) from Meta Company (unaffiliated) due to the confusion and alleged trademark infringement Facebook’s rebrand causes.*
 
