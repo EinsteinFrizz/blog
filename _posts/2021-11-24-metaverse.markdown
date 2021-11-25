@@ -52,6 +52,9 @@ Facebook refers to this metaverse as ***the*** Metaverse, while I refer to it as
 
 # Whose Reality is it Anyway?
 
+*Snow Crash* addresses the issue of access to technology, the inequities it creates, and the lengths people go to to access these technologies that put them on the same level as the elite, even if this has financial consequences:
+> In the real world-planet Earth, Reality, there are somewhere between six and ten billion people.  At any given time, most of them are making mud bricks or field-stripping their AK-47s.  Perhaps a billion of them have enough money to own a computer; these people have more money than all of the others put together.  Of these billion potential computer owners, maybe a quarter of them actually bother to own computers, and a quarter of these have machines that are powerful enough to handle the Street protocol.  That makes for about sixty million people who can be on the Street at any given time.  Add in another sixty million or so who can't really afford it but go there anyway, by using public machines, or machines owned by their school or their employer, and at any given time the Street is occupied by twice the population of New York City.
+
 # Will we ~~plebs~~ embrace the Metaverse?
 
 I remember when I joined Facebook. It was 2013 and all my friends were using it to communicate, and I was distinctly missing out on making friends at my new high school due to not having it. Being one of (what seems like) the last classes of kids to be taught not to share personal information online, I used a pseudonym, which I quickly changed to my real name following questioning from my peers and encouragement from the adults in my life – ironic, given that these are the same adults who were so focused on my online security.
