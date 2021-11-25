@@ -56,6 +56,16 @@ Facebook refers to this metaverse as ***the*** Metaverse, while I refer to it as
 *Snow Crash* addresses the issue of access to technology, the inequities it creates, and the lengths people go to to access these technologies that put them on the same level as the elite, even if this has financial consequences:
 > In the real world-planet Earth, Reality, there are somewhere between six and ten billion people.  At any given time, most of them are making mud bricks or field-stripping their AK-47s.  Perhaps a billion of them have enough money to own a computer; these people have more money than all of the others put together.  Of these billion potential computer owners, maybe a quarter of them actually bother to own computers, and a quarter of these have machines that are powerful enough to handle the Street protocol.  That makes for about sixty million people who can be on the Street at any given time.  Add in another sixty million or so who can't really afford it but go there anyway, by using public machines, or machines owned by their school or their employer, and at any given time the Street is occupied by twice the population of New York City.
 
+Needless to say, Facebook's Metaverse will run on servers owned by Facebook, rather than independent community-owned servers, and this gives Facebook a fundamental power over the reality of the Metaverse not unlike a deity.
+
+## The Dawn of Doublethink and Newspeak?
+
+In an era of the Internet where [TikTok users](https://prisonhannibal.tumblr.com/post/656800972359843840/im-so-glad-tumblr-is-my-social-media-of-choice) are being forced to adopt [13375P34K](https://en.wikipedia.org/wiki/Leet) to avoid getting stifled by the algorithm or outright banned for talking about subjects deemed unacceptable for the platform (including [LGBTQ+ content](https://www.them.us/story/lgbtq-users-reportedly-being-censored-by-tiktok)), it seems inevitable that there will be some level of censorship in the Facebook Metaverse.
+
+<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/MM95EyILrPV_Ur9A4qc5Tw/656800972359843840" data-did="61eca88908a62169d8517e60133eae8eb2fe7130"><a href="https://prisonhannibal.tumblr.com/post/656800972359843840/im-so-glad-tumblr-is-my-social-media-of-choice">https://prisonhannibal.tumblr.com/post/656800972359843840/im-so-glad-tumblr-is-my-social-media-of-choice</a></div>  <script async src="https://assets.tumblr.com/post.js"></script>
+
+In the physical realm, people can discuss whatever topics they like, their words ephemeral ripples in the air that can go completely unheard and that leave no trace of their existence. In the digital realm, there is no such thing.
+
 # Where am I?
 
 This is a relatively simple question in the physical realm, but much a more complex one in the Metaverse.
