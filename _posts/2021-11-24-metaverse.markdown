@@ -45,7 +45,7 @@ Meta and its Metaverse isn't Facebook's first foray into the virtual reality sce
 
 Facebook refers to this metaverse as ***the*** Metaverse, while I refer to it as ***their*** Metaverse. This is for two key reasons:
 
-1. I refuse to believe companies like Google, Amazon, and potentially Apple will co-operate to produce one unified metaverse, rather than creating their own versions to capitalise off of – see all the streaming services with exclusive content that have sprung up in the past few years.
+1. I refuse to believe that companies like Google, Amazon, and potentially Apple will co-operate to produce one unified metaverse, rather than creating their own versions to capitalise off of – see all the streaming services with exclusive content that have sprung up in the past few years.
 
 1. If giant corporations with monopolies or oligopolies are in charge of these metaverses, will they really serve the interests of the common person? Or will they continue the pattern of commodifying user data as people become increasingly reliant on these technologies to keep up with society?
 
@@ -57,6 +57,10 @@ Facebook refers to this metaverse as ***the*** Metaverse, while I refer to it as
 > In the real world-planet Earth, Reality, there are somewhere between six and ten billion people.  At any given time, most of them are making mud bricks or field-stripping their AK-47s.  Perhaps a billion of them have enough money to own a computer; these people have more money than all of the others put together.  Of these billion potential computer owners, maybe a quarter of them actually bother to own computers, and a quarter of these have machines that are powerful enough to handle the Street protocol.  That makes for about sixty million people who can be on the Street at any given time.  Add in another sixty million or so who can't really afford it but go there anyway, by using public machines, or machines owned by their school or their employer, and at any given time the Street is occupied by twice the population of New York City.
 
 Needless to say, Facebook's Metaverse will run on servers owned by Facebook, rather than independent community-owned servers, and this gives Facebook a fundamental power over the reality of the Metaverse not unlike a deity.
+
+## The Ultimate Utopia or Digital Dystopia?
+
+Algorithms have [power](https://bpr.berkeley.edu/2020/04/20/dangers-of-predictive-policing-algorithms/), and Facebook is no stranger to using (and [abusing](https://www.forbes.com/sites/kashmirhill/2014/06/28/facebook-manipulated-689003-users-emotions-for-science/)) this power.
 
 ## The Dawn of Doublethink and Newspeak?
 
