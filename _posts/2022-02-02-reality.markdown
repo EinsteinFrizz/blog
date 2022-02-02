@@ -6,11 +6,29 @@ categories: masters
 image: '/images/meta-matrix.jpg'
 ---
 
-What is reality?
+# What is reality?
 
 Philosophers have spent centuries now asking and answering this question, and I am certainly not qualified to provide a definitive answer (as much as I'd love to be omniscient), however I reserve my right to speculate here. Within the context of this blog post, I'd like to focus specifically on virtual reality, and when (if?) it becomes *real* reality.
 
-"Real reality" &ndash; great wording there, good job Amber.
+"Real reality" &ndash; great wording there, good job Amber. By 'real reality' I mean the reality that we all live in, including the physical world and the social structures that we as humans have built into it. From here on out, if I refer to a reality as just 'reality' I mean this reality.
+
+## Optimistic Nihilism: A Tangent
+
+I consider myself to be a nihilist &ndash; I don't think life has any purpose, and I think that our existence as sacks of chemicals that somehow managed to coordinate electrical pulses into (sometimes) coherent thought is a fluke. I also totally accept the fact that this reality may be a simulation, and I may be the only actual living being in existence. How would I know if I was or wasn't? I can never know.
+
+That being said, I don't find this worldview depressing. In fact, I find it liberating. Who cares if this is a simulation and all my favourite people and things are fake? They're real to me and the feelings I feel towards them undoubtedly exist within me, the only thing I can know is real. If there is no higher purpose to my existence, that just means my purpose is to do things that make me feel fulfilment and happiness, whetever I deem that to be.
+
+My point is that my take on what reality is is nebulous at best, and therefore my opinions on the distinction between virtual reality and real reality come from a place of nihilism, though I'd hesitate to call it ambivalence.
+
+## (Virtual) Reality
+
+If reality might indeed be a simulation, and I will never know, what difference is there between that and virtual reality? I'd argue that there may be none.
+
+Let's say though that our reality is not computer-generated, and that the definition of virtual reality is that it is a computer-generated (i.e. virtual) reality.
+
+Where does that put 360&$176; images and video presented to users via head-mounted display virtual reality systems? The world in which they are being placed may be digital, but it is a digital recreation of a non-digitally-created space and is therefore not a computer-generated reality, only a computer-presented one.
+
+Similarly, what about places in the real world that are designed by computers? [Sidewalk Labs](https://www.sidewalklabs.com), owned by Alphabet/Google, are a prime example of the increasing role of technology in fields such as urban planning. In the not-too-distant future, we could (if people let this happen) see spaces that are entirely designed by algorithms or artificial intelligence existing within the real world. By our definition of being computer-generated, this makes virtual reality bleed into the world we so instinctively know as being real reality.
 
 # Ok, but we have to draw the line somewhere
 
