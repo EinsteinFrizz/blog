@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Reality"
+date:   2021-11-24 12:00:00 +1300
+categories: masters
+image: '/images/meta-matrix.jpg'
+---
+
+What is reality?
+
+Philosophers have spent centuries now asking and answering this question, and I am certainly not qualified to provide a definitive answer (as much as I'd love to be omniscient), however I reserve my right to speculate here. Within the context of this blog post, I'd like to focus specifically on virtual reality, and when (if?) it becomes *real* reality.
+
+"Real reality" &ndash; great wording there, good job Amber.
+
+# Ok, but we have to draw the line somewhere
+
+It's all well and good having this philosophical view that virtual reality and reality may be indistinguishable, but we live in the a world where we need practical definitions for things.
+
+Virtual reality technology exists on a continuum, with [CAVE](https://www.doi.org/10.1145/129888.129892) setups being considered a form of virtual reality, despite not being what we might imagine as a typical VR setup. Within the context of virtual reality environmental research, specifically that which utilises interviews, there are multiple continuums at play, including:
+
+* In person interviews &harr; Fully virtual interviews
+* Highly connected to the environment &harr; Highly disconnected from the environment
+* Minimal use of technology &harr; Technology integrated in all possible aspects
