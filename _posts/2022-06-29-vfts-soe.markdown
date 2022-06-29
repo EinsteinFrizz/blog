@@ -1,0 +1,81 @@
+---
+layout: post
+title:  "Creating a Virtual Tour of the School of Environment, UoA"
+date:   2022-06-29 12:00:00 +1300
+categories: vft
+image: '/images/meta-matrix.jpg'
+---
+
+When I first started uni, I took a trip with my dad into the city to take a look at the campus so I'd know my way around before I was rushing to try and find rooms in between lectures. This was, of course, pre-COVID, and the pandemic has fundamentally changed the way we access tertiary education, especially for disabled, immunocompromised, and overseas students and staff.
+
+I'm working on building a virtual tour of the School of Environment so prospective students and staff can see what's available and where things are without having to visit in person.
+
+Think *Google StreetView*: 360&deg; images (or videos!) taken along a walkthrough of the area.
+
+# Taking Photos
+
+I used an [Insta360 Pro 2](https://www.insta360.com/product/insta360-pro2/) camera (affectionately known as the Death Star) to take photos throughout the School of Environment on 8 June 2022.
+
+<img src="/images/deathstar.jpg" alt="The Insta360 camera on a tripod in a hallway.">
+
+The great thing about the Insta360 Pro 2 is that it can stitch images as they're taken, meaning you don't have to do it after the fact with Insta360's stitching software (or other image editing software). This results in an equirectangular panoramic image 7680&times;3840 pixels in size.
+
+In a move that would prove to be wise later on, I decided to be systematic in taking the photos. I divided the 302 building into a 4&times;4 grid, taking photos at each intersection, naming them from AA, AB, ... AD. I also took photos outside the lifts (to provide travel continuity for when users are exploring), looking at the directory signs, and looking out the window.
+
+<img src="/images/302-image-layout.jpg" alt="An annotated map of one floor of the Science Building (302) showing points where photos were taken.">
+
+Building 301 was a bit more simple, as I could do just one line of pictures &ndash; A to D &ndash; to cover the whole floor, plus a photo on the walkway between the two buildings.
+
+An hour or two of wandering around various places in the School later, I had taken 90 images, 87 of which made it to the final virtual tour.
+
+## Fun File Follies
+
+When you import the photos from the Insta360 Pro 2, they come looking like this:
+
+> Insta360Photos  
+> &emsp;&#9495; PIC_20220608_123228  
+> &emsp;&emsp;&#9495; gyro.mp4  
+> &emsp;&emsp;&#9495; origin_1.jpg  
+> &emsp;&emsp;&#9495; origin_2.jpg  
+> &emsp;&emsp;&#9495; origin_3.jpg  
+> &emsp;&emsp;&#9495; origin_4.jpg  
+> &emsp;&emsp;&#9495; origin_5.jpg  
+> &emsp;&emsp;&#9495; origin_6.jpg  
+> &emsp;&emsp;&#9495; **pano.jpg**  
+> &emsp;&emsp;&#9495; pro.prj  
+> &emsp;&emsp;&#9495; thumbnail.jpg  
+> &emsp;&#9495; PIC_20220608_123709  
+> &emsp;&emsp;&#9495; &#8230;  
+> &emsp;&#9495; &#8230;
+
+There's a problem here: we only care about `pano.jpg`, but if we try and copy/paste all of them into one main folder, we're going to end up with something like this:
+
+> StitchedPhotos  
+> &emsp;&#9495; pano.jpg  
+> &emsp;&#9495; pano (1).jpg  
+> &emsp;&#9495; pano (2).jpg  
+> &emsp;&#9495; pano (3).jpg  
+> &emsp;&#9495; &#8230;
+
+See the issue here? We have no way of telling which photo is which! This also takes a lot of time to do manually.
+
+***If only there was a way to automatically get all the `pano.jpg` images from each folder, copy them into their own new folder, and rename them to the name of the folder they came from (i.e. their timestamp)&#8230;***
+
+## Good News!
+
+There *is* in fact a way to do that! I know because I made it!
+
+Using the Python modules `os` and `shutil` we can list, view, and edit files easily.
+
+The program works by:
+
+1. Taking user input of the folder where the imported images are stored, and where they want the renamed images to be stored, creating this folder if necessary (using `os.path.exists()` and `os.mkdir()`)
+2. Checking if `pano.jpg` exists in each subfolder using `os.listdir()`
+3. Copying the image using `shutil.copy()` (chosen as it preserves metadata)
+4. Saving the image to a file named based on the subfolder it originally came from
+
+I'm aiming to also use the `exif` package to add the timestamp from the subfolder name to the file's metadata. I'll also likely add a GUI so it's easy for non-coders to use.
+
+# The Virtual Tour
+
+It's time to create our tour!
