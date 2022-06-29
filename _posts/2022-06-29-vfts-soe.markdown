@@ -78,4 +78,10 @@ I'm aiming to also use the `exif` package to add the timestamp from the subfolde
 
 # The Virtual Tour
 
-It's time to create our tour!
+It's time to create our tour! The Pano2VR software allows anyone to create a *Google StreetView*-like tour on their own computer.
+
+<img src="/images/pano2vr.jpg" alt="A screenshot of the Pano2VR program.">
+
+When loading images into Pano2VR, most of the work is already done. All I needed to do was tweak the GPS locations (accuracy is degraded by tall buildings) or add location information where there was no GPS signal. You can get the elevation of the image from Google (a built-in Pano2VR function) and offset it by the height of the tripod (I used a value of 1.6m). I also had to turn some of the images, as their heading (i.e. where they think North is) was incorrect.
+
+The one other thing to do was to give each image a human-readable title.
