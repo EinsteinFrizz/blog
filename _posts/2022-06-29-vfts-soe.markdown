@@ -32,30 +32,30 @@ An hour or two of wandering around various places in the School later, I had tak
 
 When you import the photos from the Insta360 Pro 2, they come looking like this:
 
-> Insta360Photos  
-> &emsp;&#9495; PIC_20220608_123228  
-> &emsp;&emsp;&#9495; gyro.mp4  
-> &emsp;&emsp;&#9495; origin_1.jpg  
-> &emsp;&emsp;&#9495; origin_2.jpg  
-> &emsp;&emsp;&#9495; origin_3.jpg  
-> &emsp;&emsp;&#9495; origin_4.jpg  
-> &emsp;&emsp;&#9495; origin_5.jpg  
-> &emsp;&emsp;&#9495; origin_6.jpg  
-> &emsp;&emsp;&#9495; **pano.jpg**  
-> &emsp;&emsp;&#9495; pro.prj  
-> &emsp;&emsp;&#9495; thumbnail.jpg  
-> &emsp;&#9495; PIC_20220608_123709  
-> &emsp;&emsp;&#9495; &#8230;  
-> &emsp;&#9495; &#8230;
+Insta360Photos  
+&emsp;&#9495; PIC_20220608_123228  
+&emsp;&emsp;&#9495; gyro.mp4  
+&emsp;&emsp;&#9495; origin_1.jpg  
+&emsp;&emsp;&#9495; origin_2.jpg  
+&emsp;&emsp;&#9495; origin_3.jpg  
+&emsp;&emsp;&#9495; origin_4.jpg  
+&emsp;&emsp;&#9495; origin_5.jpg  
+&emsp;&emsp;&#9495; origin_6.jpg  
+&emsp;&emsp;&#9495; **pano.jpg**  
+&emsp;&emsp;&#9495; pro.prj  
+&emsp;&emsp;&#9495; thumbnail.jpg  
+&emsp;&#9495; PIC_20220608_123709  
+&emsp;&emsp;&#9495; &#8230;  
+&emsp;&#9495; &#8230;
 
 There's a problem here: we only care about `pano.jpg`, but if we try and copy/paste all of them into one main folder, we're going to end up with something like this:
 
-> StitchedPhotos  
-> &emsp;&#9495; pano.jpg  
-> &emsp;&#9495; pano (1).jpg  
-> &emsp;&#9495; pano (2).jpg  
-> &emsp;&#9495; pano (3).jpg  
-> &emsp;&#9495; &#8230;
+StitchedPhotos  
+&emsp;&#9495; pano.jpg  
+&emsp;&#9495; pano (1).jpg  
+&emsp;&#9495; pano (2).jpg  
+&emsp;&#9495; pano (3).jpg  
+&emsp;&#9495; &#8230;
 
 See the issue here? We have no way of telling which photo is which! This also takes a lot of time to do manually.
 
